@@ -4,7 +4,7 @@
 
 🧑🏻‍💻 Currently, I am furthering my research skills as a research intern at the Artificial Intelligence Research and Innovation Lab, Westlake University, under the esteemed supervision of Stan.ZQ.Li.
 
-🧠 My areas of interest include ML&DL, Neural network optimization, and CV.
+🧠 My areas of interest include ML&DL and CV.
 
 ☺️ You can learn more about my recent updates and activities on my website at https://tianshijing.github.io.
 
