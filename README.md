@@ -10,5 +10,4 @@
 
 I warmly welcome the opportunity for meaningful collaborations, be it in research or competitions. Email: juanxitian1031@gmail.com
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
 Following are some of my favorite repositories that I have contributed to and/or contribute to:
