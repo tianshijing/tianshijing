@@ -12,4 +12,4 @@
 
 I warmly welcome the opportunity for meaningful collaborations, be it in research or competitions. Email: juanxitian1031@gmail.com
 
-Following are some of my favorite repositories that I have contributed to and/or contribute to:
+Following are some of my favorite repositories that I have contributed to:
