@@ -1,4 +1,4 @@
-👋 Hi, I'm Juanxi Tian.
+Juanxi Tian
 
 🙋🏻‍♂️ I am currently pursuing my undergraduate degree at Hong Kong Baptist University. Previously, I gained valuable research experience as a research intern at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. 
 
@@ -8,7 +8,7 @@
 
 🧠 My areas of interest include Multimodel Large Language Model, Optimization in Deep Learning and Computer Vision.
 
-☺️ You can learn more about my recent updates and activities on my website at https://tianshijing.github.io.
+You can learn more about my recent updates and activities on my website at https://tianshijing.github.io.
 
 I warmly welcome the opportunity for meaningful collaborations, be it in research or competitions. Email: juanxitian1031@gmail.com
 
