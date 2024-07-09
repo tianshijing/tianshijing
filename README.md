@@ -13,3 +13,7 @@ You can learn more about my recent updates and activities on my website at https
 I warmly welcome the opportunity for meaningful collaborations, be it in research or competitions. Email: juanxitian1031@gmail.com
 
 Following are some of my favorite repositories that I have contributed to:
+
+![Visitor Count](https://profile-counter.glitch.me/tianshijing/count.svg)
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=tianshijing&theme=dracula)
