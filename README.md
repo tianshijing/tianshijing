@@ -2,7 +2,7 @@ Juanxi Tian
 
 🙋🏻‍♂️ I am currently pursuing my undergraduate degree at Hong Kong Baptist University. Previously, I gained valuable research experience as a research intern at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. 
 
-🧑🏻‍💻 Currently, I am furthering my research skills as a research intern at the Artificial Intelligence Research and Innovation Lab, Westlake University, under the esteemed supervision of Stan.Z.Li.
+🧑🏻‍💻 Currently, I am furthering my research skills as a research intern at the Artificial Intelligence Research and Innovation Lab, Westlake University, under the esteemed supervision of Stan Z.Li.
 
 🌎 And I am actively exploring extensive international research collaborations, thanks to Professor Huaxiu Yao from UNC.
 
