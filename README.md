@@ -1,4 +1,4 @@
-Juanxi Tian
+**Juanxi Tian**
 
 🙋🏻‍♂️ I am currently pursuing my undergraduate degree at Hong Kong Baptist University. Previously, I gained valuable research experience as a research intern at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. 
 
