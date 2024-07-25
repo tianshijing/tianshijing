@@ -12,7 +12,7 @@ Juanxi Tian
 
 You can learn more about my recent updates and activities on my website at https://tianshijing.github.io.
 
-I warmly welcome the opportunity for meaningful collaborations, be it in research or competitions. Email: juanxitian1031@gmail.com
+I warmly welcome the opportunity for meaningful collaborations. Email: juanxitian1031@gmail.com
 
 Following are some of my favorite repositories that I have contributed to:
 
