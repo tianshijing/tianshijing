@@ -1,18 +1,16 @@
 **Juanxi Tian**
 
-🙋🏻‍♂️ I am currently pursuing my undergraduate degree at Hong Kong Baptist University. Previously, I gained valuable research experience as a research intern at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. 
+🧐My areas of interest include Multimodel Large Language Model, Optimization in Deep Learning and Computer Vision.
 
-🧑🏻‍💻 Currently, I am furthering my research skills as a research intern at the Artificial Intelligence Research and Innovation Lab, Westlake University, under the esteemed supervision of Stan Z. Li.
+🧑🏻‍💻My research goal is to profoundly understand the black-box cornerstone of deep learning by exploring often overlooked and counterintuitive phenomena in foundational models, thereby aiding and witnessing the emergence of new optimization techniques and the evolution of MLLM into a generalist model. 
 
-🌎 And I am actively exploring extensive international research collaborations, thanks to Professor Huaxiu Yao from UNC.
-
-🧠 My areas of interest include Multimodel Large Language Model, Optimization in Deep Learning and Computer Vision.
+Currently, I have established the **Black-Box Optimization & Coupling Bias** (BOCB: https://github.com/Black-Box-Optimization-Coupling-Bias) team with my best research partner & friend. Our team is dedicated to advancing the scientific understanding of black-box optimization problems and the pervasive coupling bias phenomena observed in contemporary artificial intelligence systems, particularly deep neural networks. Through rigorous theoretical analysis and empirical investigation, we aim to call for the community to re-examine research that has been held with high conviction, to uncover the fundamental mechanisms underlying these prevalent challenges in the field of artificial intelligence, and to stimulate the emergence of new optimization technologies.
 
 ![Visitor Count](https://profile-counter.glitch.me/tianshijing/count.svg)
 
-You can learn more about my recent updates and activities on my website at https://tianshijing.github.io.
+You can learn more about my recent updates and activities on my personal website at https://tianshijing.github.io.
 
-I warmly welcome the opportunity for meaningful collaborations. Email: juanxitian1031@gmail.com
+🌏I warmly welcome the opportunity to collaborate meaningfully, preferably on my research interests or those of the BOCB team. E-mail :juanxitian1031@gmail.com
 
 Following are some of my favorite repositories that I have contributed to:
 
