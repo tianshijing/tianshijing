@@ -1,4 +1,4 @@
-**Juanxi Tian**
+#Juanxi Tian
 
 🧐My areas of interest include Multimodel Large Language Model, Optimization in Deep Learning and Computer Vision.
 
