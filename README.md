@@ -1,3 +1,6 @@
+<a href="https://github.com/Black-Box-Optimization-Coupling-Bias">
+  <img src="https://github.com/user-attachments/assets/9bc2224e-e8f9-4441-8aab-9613e89382f6" alt="bocb_logo" width="60" height="80">
+</a>
 
 ### Juanxi Tian
 
@@ -12,10 +15,6 @@ My research goal is to profoundly understand the black-box cornerstone of deep l
 
 🔍 **Current Focus:**
 I have established the **Black-Box Optimization & Coupling Bias (BOCB)** team with my best research partners & friends. Our team is dedicated to advancing the scientific understanding of black-box optimization problems and the pervasive coupling bias phenomena observed in contemporary artificial intelligence systems, particularly deep neural networks. Through rigorous theoretical analysis and empirical investigation, we aim to call for the community to re-examine research that has been held with high conviction, to uncover the fundamental mechanisms underlying these prevalent challenges in the field of artificial intelligence, and to stimulate the emergence of new optimization technologies.
-
-<a href="https://github.com/Black-Box-Optimization-Coupling-Bias">
-  <img src="https://github.com/user-attachments/assets/9bc2224e-e8f9-4441-8aab-9613e89382f6" alt="bocb_logo" width="60" height="80">
-</a>
 
 ---
 ![Visitor Count](https://profile-counter.glitch.me/tianshijing/count.svg)
