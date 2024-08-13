@@ -1,5 +1,5 @@
 ****Juanxi Tian****
-![bocb_logo](https://github.com/user-attachments/assets/9bc2224e-e8f9-4441-8aab-9613e89382f6)
+<img src="https://github.com/user-attachments/assets/9bc2224e-e8f9-4441-8aab-9613e89382f6" alt="bocb_logo" width="200" height="100">
 
 🧐My areas of interest include Multimodel Large Language Model, Optimization in Deep Learning and Computer Vision.
 
