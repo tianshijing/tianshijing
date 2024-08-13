@@ -7,8 +7,8 @@
 ### Juanxi Tian
 
 🧐 **Areas of Interest:**
-- Multimodal Large Language Models
 - Optimization in Deep Learning
+- Multimodal Large Language Models
 - Computer Vision
 
 🧑🏻‍💻 **Research Goal:**
