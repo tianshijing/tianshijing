@@ -17,6 +17,7 @@ I have established the **Black-Box Optimization & Coupling Bias (BOCB)** team wi
 <a href="https://github.com/Black-Box-Optimization-Coupling-Bias">
   <img src="https://github.com/user-attachments/assets/9bc2224e-e8f9-4441-8aab-9613e89382f6" alt="bocb_logo" width="60" height="80">
 </a>
+
 [Black-Box Optimization & Coupling Bias (BOCB)](https://github.com/Black-Box-Optimization-Coupling-Bias)
 
 ---
