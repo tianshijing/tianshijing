@@ -21,7 +21,7 @@ I have established the **Black-Box Optimization & Coupling Bias (BOCB)** team wi
 
 You can learn more about my recent updates and activities on my personal website at https://tianshijing.github.io.
 
-🌏I warmly welcome the opportunity to collaborate meaningfully, preferably on my research interests or those of the BOCB team. E-mail :juanxitian1031@gmail.com
+🌏I warmly welcome the opportunity to collaborate meaningfully, preferably on my research interests or those of the BOCB team. E-mail: juanxitian1031@gmail.com
 
 Following are some of my favorite repositories that I have contributed to:
 
