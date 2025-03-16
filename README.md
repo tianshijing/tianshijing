@@ -1,6 +1,5 @@
 # Juanxi Tian
 
----
 🧐 **Areas of Interest:**
 - Optimization in Deep Learning
 - Multimodal Large Language Models
