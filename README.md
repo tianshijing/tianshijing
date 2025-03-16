@@ -1,4 +1,4 @@
-### Juanxi Tian
+# Juanxi Tian
 
 ---
 🧐 **Areas of Interest:**
