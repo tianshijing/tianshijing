@@ -5,9 +5,6 @@
 - Multimodal Large Language Models
 - Visual Generation
 
-🧑🏻‍💻 **Research Interest:**
-My research interests are focused on vision and learning, in-depth understanding of the training and generalization of complex deep learning systems (coupling and counter-intuitive phenomena), and continuous in-depth analysis and improvement from the perspective of optimization, so as to promote the generation of more robust artificial (general) intelligence technologies.
-
 ![combined_image](https://github.com/user-attachments/assets/3d964119-c1ba-4be3-911f-9860847db134)
 
 
