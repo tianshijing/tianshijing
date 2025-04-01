@@ -2,7 +2,7 @@
 
 🧐 **Areas of Interest:**
 - Optimization in Deep Learning
-- Multimodal Large Language Models
+- (Multimodal) Large Language Models
 - Visual Generation
 
 ![combined_image](https://github.com/user-attachments/assets/3d964119-c1ba-4be3-911f-9860847db134)
