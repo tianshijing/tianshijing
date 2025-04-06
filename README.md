@@ -1,6 +1,7 @@
 # Juanxi Tian
+![WeChatd7a477d328cedb8eec7f091fe5425163](https://github.com/user-attachments/assets/bb38a25e-7994-4fc2-b5ab-aece58416fe1)
 
-🧐 **Areas of Interest:**
+🧐 **Research interest:**
 - Optimization in Deep Learning
 - (Multimodal) Large Language Models
 - Visual Generation
