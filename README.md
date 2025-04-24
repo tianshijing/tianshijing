@@ -5,9 +5,6 @@
 - (Multimodal) Large Language Models
 - Visual Generation
 
-![combined_image](https://github.com/user-attachments/assets/3d964119-c1ba-4be3-911f-9860847db134)
-
-
 ---
 ![Visitor Count](https://profile-counter.glitch.me/tianshijing/count.svg)
 
