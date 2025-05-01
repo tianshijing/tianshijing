@@ -1,7 +1,7 @@
 # Juanxi Tian
 
 **Research interest:**
-- Optimization in Deep Learning
+- Efficient AI
 - (Multimodal) Large Language Models
 - Visual Generation
 
