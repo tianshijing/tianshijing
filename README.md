@@ -1,7 +1,7 @@
 # Juanxi Tian
 
 **Research interest:**
-- Efficient AI
+- Foundation Models
 - (Multimodal) Large Language Models
 - Visual Generation
 
