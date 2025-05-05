@@ -3,7 +3,8 @@
 **Research interest:**
 - Foundation Models
 - (Multimodal) Large Language Models
-- Visual Generation
+- Generative AI
+- Computer Vision
 
 ---
 ![Visitor Count](https://profile-counter.glitch.me/tianshijing/count.svg)
