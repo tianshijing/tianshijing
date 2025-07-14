@@ -2,9 +2,7 @@
 
 **Research interest:**
 - Foundation Models
-- (Multimodal) Large Language Models
 - Generative AI
-- Efficient AI
 
 ---
 ![Visitor Count](https://profile-counter.glitch.me/tianshijing/count.svg)
