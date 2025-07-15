@@ -5,7 +5,6 @@
 - Generative AI
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/tianshijing/count.svg)
 
 🌏I warmly welcome the opportunity for meaningful cooperation. E-mail: juanxitian1031@gmail.com
 
