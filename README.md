@@ -14,7 +14,7 @@
 
 Currently, I am thinking about how to make more of my contributions to the community. I am taking action.
 
-⬅️ Welcome to follow me!
+⬅️ Welcome to follow me and ScalingOpt!
 
 Following are some of my favorite repositories that I have contributed to:
 
