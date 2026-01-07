@@ -1,5 +1,4 @@
 # Juanxi Tian
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00c6ff,100:0072ff&text=Hi%20there,%20I'm%20Rongsheng%20%20!&fontSize=45&reversal=false&section=header&fontColor=ffffff&textBg=false" width="100%">
 
 **Research interest:**
 - Foundation Models
