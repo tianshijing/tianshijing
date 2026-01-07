@@ -7,8 +7,6 @@
 - Efficient AI
 - Generative AI
 
----
-
 🌏 Personal Homepage: https://tianshijing.github.io
 📪 E-mail: juanxitian1031@gmail.com 
 
