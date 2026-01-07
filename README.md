@@ -1,4 +1,5 @@
 # Juanxi Tian
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20this%20is%20Juanxi%20Tian." width="100%">
 
 **Research interest:**
 - Foundation Models
