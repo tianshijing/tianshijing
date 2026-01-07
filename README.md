@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20this%20is%20Juanxi%20Tian." width="100%">
 
+<h3 align="center">田隽熙｜Juanxi Tian <img src="./resources/Hi.gif" width="29px"> </h3>
+
 **Research interest:**
 - Foundation Models
 - Efficient AI
