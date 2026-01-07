@@ -1,4 +1,3 @@
-# Juanxi Tian
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20this%20is%20Juanxi%20Tian." width="100%">
 
 **Research interest:**
@@ -19,4 +18,5 @@ Currently, I am thinking about how to make more of my contributions to the commu
 
 Following are some of my favorite repositories that I have contributed to:
 
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
