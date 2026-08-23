@@ -3,9 +3,8 @@
 <h3 align="center">田隽熙(世憬)｜Juanxi Tian <img src="./resources/Hi.gif" width="29px"> </h3>
 
 **Research interest:**
-- Foundation Models
-- Efficient AI
-- Generative AI
+- World Model
+- Agentic Multimodal
 
 🌏 Personal Homepage: https://tianshijing.github.io
 📪 E-mail: juanxitian1031@gmail.com 
