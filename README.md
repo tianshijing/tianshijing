@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20this%20is%20Juanxi%20Tian." width="100%">
+<img src="./resources/profile-header.png" width="100%" alt="Hi, this is Juanxi Tian. OpenEnvision black swan logo.">
 
-<h3 align="center">田隽熙(世憬)｜Juanxi Tian <img src="./resources/Hi.gif" width="29px"> </h3>
+<h3 align="center">田隽熙(世憬)｜Juanxi Tian <img src="./resources/black-swan.gif" width="86" align="middle" alt="Black swan swimming"></h3>
 
 **Research interest:**
 - World Model
@@ -17,5 +17,5 @@ Currently, I am thinking about how to make more of my contributions to the commu
 
 Following are some of my favorite repositories that I have contributed to:
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+<a href="https://openenvision.org/"><img src="./resources/profile-footer.png" width="100%" alt="Visit the OpenEnvision website"></a>
 
