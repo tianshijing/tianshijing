@@ -5,17 +5,9 @@
 **Research interest:**
 - World Model
 - Agentic Multimodal
-
-🌏 Personal Homepage: https://tianshijing.github.io
-📪 E-mail: juanxitian1031@gmail.com 
+- Anything (I want to research)
 
 **I reject all short-term, quick-and-dirty and meaningless research.**
-
-Currently, I am thinking about how to make more of my contributions to the community. I am taking action.
-
-⬅️ Welcome to follow me!
-
-Following are some of my favorite repositories that I have contributed to:
 
 <a href="https://openenvision.org/"><img src="./resources/profile-footer.png" width="100%" alt="Visit the OpenEnvision website"></a>
 
